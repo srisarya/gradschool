@@ -2,6 +2,6 @@
 * 1 lime
 * 1 tsp salt
 * 0.5 onion
-* coriander
+* 3 tsp coriander
 * black pepper
 * jalepenos
